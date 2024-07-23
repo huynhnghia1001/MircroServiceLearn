@@ -1,0 +1,627 @@
+2024-07-22 20:10:48,108 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-22 20:12:24,470 [Worker-45: Creating project "Microservice"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:Microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/pom.xml.
+2024-07-22 20:12:25,108 [Worker-45: Creating project "Microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Microservice/src/main/java
+2024-07-22 20:12:25,109 [Worker-45: Creating project "Microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Microservice/src/main/resources
+2024-07-22 20:12:25,111 [Worker-45: Creating project "Microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Microservice/src/test/java
+2024-07-22 20:12:25,111 [Worker-45: Creating project "Microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Microservice/src/test/resources
+2024-07-22 20:12:26,721 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:12:26,735 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:12:26,763 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:12:26,764 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:13:10,348 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:13:10,355 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:13:10,360 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:13:10,361 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/test/resources
+2024-07-22 20:14:07,577 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:Microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/pom.xml.
+2024-07-22 20:14:07,891 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:07,891 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/main/resources
+2024-07-22 20:14:07,895 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:07,895 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/test/resources
+2024-07-22 20:14:30,051 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:Microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/pom.xml.
+2024-07-22 20:14:30,185 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:30,187 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/main/resources
+2024-07-22 20:14:30,191 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:30,192 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/test/resources
+2024-07-22 20:14:56,917 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:Microservice:1.0-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/pom.xml.
+2024-07-22 20:14:57,032 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:57,034 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/main/resources
+2024-07-22 20:14:57,035 [Worker-61: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:14:57,036 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/Microservice/src/test/resources
+2024-07-22 20:15:55,064 [Worker-58: Creating project "microservice"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:15:55,310 [Worker-58: Creating project "microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservice/src/main/java
+2024-07-22 20:15:55,310 [Worker-58: Creating project "microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservice/src/main/resources
+2024-07-22 20:15:55,310 [Worker-58: Creating project "microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservice/src/test/java
+2024-07-22 20:15:55,310 [Worker-58: Creating project "microservice"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservice/src/test/resources
+2024-07-22 20:15:56,014 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:15:56,020 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:15:56,029 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:15:56,030 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:25:40,967 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:25:41,067 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:25:41,071 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:25:41,074 [Worker-65: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:25:41,075 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:29:23,953 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:29:23,989 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 20:29:24,003 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:29:24,110 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 20:29:48,011 [Worker-70: Creating project "ProductService"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 20:29:48,318 [Worker-70: Creating project "ProductService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 20:29:48,319 [Worker-70: Creating project "ProductService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 20:29:48,319 [Worker-70: Creating project "ProductService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 20:29:48,319 [Worker-70: Creating project "ProductService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 20:29:48,790 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:29:48,899 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:29:49,018 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:29:49,033 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:29:50,813 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:29:50,958 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 20:49:27,090 [Worker-76: Creating project "InventoryService"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 20:49:27,486 [Worker-76: Creating project "InventoryService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 20:49:27,486 [Worker-76: Creating project "InventoryService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 20:49:27,487 [Worker-76: Creating project "InventoryService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 20:49:27,487 [Worker-76: Creating project "InventoryService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 20:49:27,700 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:49:27,704 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:49:27,718 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:49:27,719 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:49:28,072 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:49:28,158 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 20:49:28,176 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 20:49:46,265 [Worker-73: Creating project "OrderService"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 20:49:46,570 [Worker-73: Creating project "OrderService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 20:49:46,570 [Worker-73: Creating project "OrderService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 20:49:46,570 [Worker-73: Creating project "OrderService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 20:49:46,570 [Worker-73: Creating project "OrderService"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 20:49:47,017 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:49:47,025 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 20:49:47,039 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 20:49:47,040 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 20:49:47,645 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 20:49:47,908 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 20:49:47,951 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 20:49:47,970 [Worker-76: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:01:42,661 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:03:52,145 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:03:52,247 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:03:52,548 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:03:52,554 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:03:52,821 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:05:49,209 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:06:48,491 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:06:48,667 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:06:48,674 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:06:48,679 [Worker-82: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:06:59,442 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:06:59,605 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:06:59,614 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:06:59,632 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:07:21,373 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:07:21,402 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:07:21,470 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:07:21,481 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:07:21,503 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:07:21,563 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:07:21,563 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:07:21,564 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:07:21,564 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:07:21,608 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:07:21,608 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:07:21,609 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:07:21,609 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:07:21,626 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:07:21,626 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:07:21,900 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:07:22,030 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:07:22,031 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:07:22,034 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:07:22,034 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:07:22,164 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:07:22,165 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:07:22,165 [Worker-86: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:07:22,166 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:07:53,482 [Worker-84: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'properties' (position: START_TAG seen ...</properties>\n  <properties>... @16:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'properties' (position: START_TAG seen ...</properties>\n  <properties>... @16:15) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2301)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-22 21:08:08,070 [Worker-87: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/ProductService/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:913)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.lambda$1(MavenProjectCache.java:192)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache$CacheLine.getProject(MavenProjectCache.java:191)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectCache.getMavenProject(MavenProjectCache.java:105)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$24(ProjectRegistryManager.java:1099)
+	at java.base/java.util.Map.computeIfAbsent(Map.java:1054)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1098)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:289)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:241)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-22 21:08:08,185 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:08:15,504 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:08:47,590 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:08:47,625 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:08:47,634 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:08:47,635 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:08:47,636 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:08:59,568 [Worker-86: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:11:11,920 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:11:11,965 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:11:11,969 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:11:11,972 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:11:11,972 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:11:43,398 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:11:43,439 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:11:43,444 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:11:43,446 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:11:43,447 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:12:10,728 [Worker-87: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:12:10,778 [Worker-87: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:10,781 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:12:10,782 [Worker-87: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:10,783 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:12:20,296 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:12:20,303 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:20,304 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:12:20,304 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:20,305 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:12:23,989 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:12:24,005 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:24,006 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:12:24,008 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:24,008 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:12:32,381 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:12:32,400 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:12:32,418 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:12:32,418 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:12:32,418 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:12:32,418 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:12:32,556 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:12:32,668 [Worker-87: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:32,669 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:12:32,671 [Worker-87: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:12:32,671 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:14:33,969 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:14:34,039 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:14:34,045 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:14:34,046 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:14:34,047 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:14:46,960 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:14:47,000 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:14:47,003 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:14:47,004 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:14:47,004 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:15:23,431 [Worker-85: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:15:23,471 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:15:23,475 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:15:23,476 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:15:23,477 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:18:13,443 [Worker-96: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:18:13,460 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:18:13,462 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:18:13,464 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-07-22 21:18:13,465 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:18:14,702 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:18:14,888 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:18:15,003 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:18:15,107 [Worker-92: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:19:59,854 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:20:00,246 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:20:00,270 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:20:00,278 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:20:00,373 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:20:01,111 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:20:01,126 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:20:01,145 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:20:01,250 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:20:01,250 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:20:01,251 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:20:01,252 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:20:01,252 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:20:01,295 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:20:01,295 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:20:01,296 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:20:01,296 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:20:01,296 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:20:01,311 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:20:01,311 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:20:01,313 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:20:01,314 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:20:01,314 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:20:01,693 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:20:01,896 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:01,896 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:01,901 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:02,232 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:02,233 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:02,233 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:02,241 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:02,242 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:02,242 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:06,514 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:20:06,729 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:20:06,829 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:20:06,855 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:20:06,864 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:20:06,939 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:20:06,940 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:20:06,940 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:20:06,940 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:20:06,940 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:20:06,963 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:20:06,963 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:20:06,963 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:20:06,963 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:20:06,963 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:20:06,973 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:20:06,973 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:20:06,973 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:20:06,973 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:20:06,973 [Worker-97: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:20:07,057 [Worker-97: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:20:07,177 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,178 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,181 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:07,414 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,416 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,420 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:07,447 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,448 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:07,451 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:30,686 [Worker-95: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:20:30,732 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:30,733 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:30,737 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:20:52,117 [Worker-99: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:20:52,190 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:52,191 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:20:52,197 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:21:11,044 [Worker-100: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:21:11,086 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:21:11,086 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:21:11,088 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:21:47,856 [Worker-97: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:21:48,005 [Worker-97: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:21:48,021 [Worker-97: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:21:48,028 [Worker-97: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:22:18,690 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:22:18,825 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:22:19,119 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:22:19,187 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:22:19,202 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:22:19,329 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:22:19,329 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:22:19,329 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:22:19,330 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:22:19,330 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:22:19,363 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:22:19,364 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:22:19,364 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:22:19,364 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:22:19,364 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:22:19,378 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:22:19,379 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:22:19,379 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:22:19,379 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:22:19,379 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:22:19,561 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:22:19,696 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,697 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,700 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:22:19,874 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,874 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,876 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:22:19,894 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,894 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:19,895 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:22:55,286 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:55,286 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:55,289 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:22:56,451 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:56,454 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:22:56,455 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-07-22 21:23:00,205 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/main/resources
+2024-07-22 21:23:00,206 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/main/resources
+2024-07-22 21:23:00,207 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:23:01,225 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/main/resources
+2024-07-22 21:23:01,225 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/main/resources
+2024-07-22 21:23:01,227 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:23:20,098 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/main/resources
+2024-07-22 21:23:20,098 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/main/resources
+2024-07-22 21:23:20,100 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:23:21,153 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/main/resources
+2024-07-22 21:23:21,154 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/main/resources
+2024-07-22 21:23:21,155 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:23:36,445 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/resources
+2024-07-22 21:23:36,448 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/resources
+2024-07-22 21:23:36,450 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:23:37,489 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/resources
+2024-07-22 21:23:37,490 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/resources
+2024-07-22 21:23:37,491 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:24:16,055 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:24:16,079 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:24:16,080 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:25:09,011 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:25:09,020 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:25:09,024 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:25:40,124 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:25:40,129 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:25:40,130 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:28:56,985 [Worker-102: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:28:57,459 [Worker-102: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:28:58,016 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:28:58,023 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:28:58,043 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:28:58,810 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:28:58,825 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:28:58,834 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:29:16,520 [Worker-101: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:29:16,760 [Worker-101: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:29:16,923 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:16,924 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:16,925 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:29:27,203 [Worker-102: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-22 21:29:32,758 [Worker-105: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15)  @ line 41, column 15
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15)  @ line 41, column 15
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:935)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-22 21:29:32,868 [Worker-105: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:236)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1079)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:234)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2151)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1418)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1360)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2317)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2024-07-22 21:29:35,918 [Worker-106: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15)  @ line 41, column 15
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml: end tag name </dependency> must match start tag name <dependencies> from line 16 (position: TEXT seen ...</dependency>\n\t</dependency>... @41:15)  @ line 41, column 15
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:131)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:939)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:935)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:219)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:709)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1029)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-22 21:29:48,862 [Worker-104: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:29:49,079 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:49,080 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:49,081 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:29:50,224 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:29:50,227 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:50,230 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:29:52,667 [Worker-99: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:29:53,131 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:53,137 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:29:53,140 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:30:04,741 [Worker-101: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:30:05,000 [Worker-101: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:30:05,062 [Worker-101: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:30:05,459 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:05,469 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:05,473 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:30:05,969 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:30:05,979 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:05,980 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:30:13,208 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:30:13,435 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:30:13,604 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:30:13,918 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:30:13,990 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:30:14,012 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:30:14,445 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:30:14,445 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:30:14,447 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:30:14,447 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:30:14,448 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:30:14,574 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:30:14,575 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:30:14,576 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:30:14,578 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:30:14,579 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:30:14,646 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:30:14,647 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:30:14,647 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:30:14,649 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:30:14,649 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:30:15,014 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-22 21:30:15,807 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:30:15,836 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:15,840 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:30:18,018 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:30:18,035 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:18,043 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:30:18,810 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:30:18,823 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:30:18,826 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:32:45,489 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:32:45,699 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:32:45,833 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:32:46,103 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:32:46,103 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:32:46,103 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:32:46,104 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:32:46,104 [Worker-92: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:32:46,625 [Worker-92: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-07-22 21:32:47,245 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:32:47,253 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:32:47,254 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:33:33,992 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-07-22 21:33:34,258 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:33:34,472 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:33:34,678 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:33:34,731 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:33:34,763 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 21:33:35,442 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/main/java
+2024-07-22 21:33:35,446 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:33:35,446 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/main/resources
+2024-07-22 21:33:35,447 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /InventoryService/src/test/java
+2024-07-22 21:33:35,447 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /InventoryService/src/test/resources
+2024-07-22 21:33:35,662 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/main/java
+2024-07-22 21:33:35,663 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:33:35,663 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/main/resources
+2024-07-22 21:33:35,663 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OrderService/src/test/java
+2024-07-22 21:33:35,663 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OrderService/src/test/resources
+2024-07-22 21:33:35,772 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2024-07-22 21:33:35,772 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:33:35,772 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2024-07-22 21:33:35,772 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2024-07-22 21:33:35,772 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2024-07-22 21:33:35,946 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-07-22 21:33:36,224 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:33:36,274 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:33:36,287 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources
+2024-07-22 21:33:36,792 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:33:36,797 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:33:36,799 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/src/test/resources
+2024-07-22 21:33:38,050 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 21:33:38,064 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 21:33:38,066 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/test/resources
+2024-07-22 21:36:09,936 [Worker-111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.huynhnghia:microservice:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/pom.xml.
+2024-07-22 21:36:10,385 [Worker-111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:OrderService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/OrderService/pom.xml.
+2024-07-22 21:36:10,535 [Worker-111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:InventoryService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/pom.xml.
+2024-07-22 21:36:10,581 [Worker-111: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier  to /ProductService/target/classes
+2024-07-22 21:36:10,589 [Worker-111: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.huynhnghia:ProductService:0.0.1-SNAPSHOT @ /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/pom.xml.
+2024-07-22 22:29:21,687 [Worker-109: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:29:21,722 [Worker-109: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:29:21,752 [Worker-109: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:29:41,205 [Worker-124: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:29:41,237 [Worker-124: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:29:41,274 [Worker-124: Launching InventoryService - InventoryServiceApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ProductService: com.huynhnghia:ProductService:0.0.1-SNAPSHOT with classifier null to /ProductService/target/classes
+2024-07-22 22:32:30,596 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-07-22 22:32:30,644 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-07-22 22:32:30,652 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/InventoryService/src/test/resources

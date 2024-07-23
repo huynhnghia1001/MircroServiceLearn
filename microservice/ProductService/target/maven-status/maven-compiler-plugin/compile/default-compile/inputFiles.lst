@@ -1,0 +1,7 @@
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/ProductServiceApplication.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/controller/ProductController.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/dto/ProductRequest.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/dto/ProductResponse.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/model/Product.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/repository/ProductRepository.java
+/Users/huynhtrongnghia/Documents/Developer/Project/ProjectMicroservice/Microservice_a/Micro/microservice/ProductService/src/main/java/com/huynhnghia/productservice/service/ProductService.java

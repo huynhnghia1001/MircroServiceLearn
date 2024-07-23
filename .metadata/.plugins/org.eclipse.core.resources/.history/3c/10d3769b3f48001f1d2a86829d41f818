@@ -1,0 +1,10 @@
+spring.application.name=InventoryService
+spring.jpa.show-sql=true
+spring.datasource.url=jdbc:mysql://127.0.0.1:3007/inventory-service
+spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
+spring.datasource.username=root
+spring.datasource.password=root
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+server.port=8082

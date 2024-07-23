@@ -1,0 +1,8 @@
+com/huynhnghia/orderservice/model/OrderLineItems.class
+com/huynhnghia/orderservice/controller/OrderController.class
+com/huynhnghia/orderservice/OrderServiceApplication.class
+com/huynhnghia/orderservice/repository/OrderRepository.class
+com/huynhnghia/orderservice/service/OrderService.class
+com/huynhnghia/orderservice/dto/OrderLineItemsDto.class
+com/huynhnghia/orderservice/model/Order.class
+com/huynhnghia/orderservice/dto/OrderRequest.class

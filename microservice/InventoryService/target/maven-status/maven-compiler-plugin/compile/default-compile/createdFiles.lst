@@ -1,0 +1,5 @@
+com/huynhnghia/Inventoryservice/InventoryServiceApplication.class
+com/huynhnghia/Inventoryservice/service/InventoryService.class
+com/huynhnghia/Inventoryservice/repository/InventoryRepository.class
+com/huynhnghia/Inventoryservice/model/Inventory.class
+com/huynhnghia/Inventoryservice/controller/InventoryController.class

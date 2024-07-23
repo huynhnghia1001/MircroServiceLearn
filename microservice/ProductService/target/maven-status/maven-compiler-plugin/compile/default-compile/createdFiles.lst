@@ -1,0 +1,10 @@
+com/huynhnghia/productservice/dto/ProductResponse.class
+com/huynhnghia/productservice/repository/ProductRepository.class
+com/huynhnghia/productservice/dto/ProductRequest.class
+com/huynhnghia/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/huynhnghia/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/huynhnghia/productservice/service/ProductService.class
+com/huynhnghia/productservice/controller/ProductController.class
+com/huynhnghia/productservice/model/Product$ProductBuilder.class
+com/huynhnghia/productservice/ProductServiceApplication.class
+com/huynhnghia/productservice/model/Product.class
